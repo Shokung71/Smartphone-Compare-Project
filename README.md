@@ -1,6 +1,5 @@
-<img width="1280" height="720" alt="PreviewIMG" src="https://github.com/user-attachments/assets/f962f571-8374-4047-b755-1fa4b2f3fbbf" />
-
 # Smartphone Compare Project
+<img width="1280" height="720" alt="PreviewIMG" src="https://github.com/user-attachments/assets/f962f571-8374-4047-b755-1fa4b2f3fbbf" />
 A class assignment to create mobile app project with React Native + Expo
 
 โปรเจกต์แอป **Smartphone Compare** (React Native + Expo) สำหรับดูและเปรียบเทียบสเปคสมาร์ทโฟนแบบรวดเร็ว พร้อมระบบผู้ใช้และหน้าผู้ดูแลเพื่อจัดการสินค้า/ผู้ใช้ ข้อมูลถูกอ่านจากไฟล์ `db.json` ผ่าน **json-server** (mock backend)
