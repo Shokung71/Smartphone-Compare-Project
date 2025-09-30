@@ -1,5 +1,5 @@
 # Smartphone Compare Project
-A class assignment to create mobile app project with React Native + Expo
+For Education: A class assignment to create mobile app project with React Native + Expo
 
 โปรเจกต์แอป **Smartphone Compare** (React Native + Expo) สำหรับดูและเปรียบเทียบสเปคสมาร์ทโฟนแบบรวดเร็ว พร้อมระบบผู้ใช้และหน้าผู้ดูแลเพื่อจัดการสินค้า/ผู้ใช้ ข้อมูลถูกอ่านจากไฟล์ `db.json` ผ่าน **json-server** (mock backend)
 
