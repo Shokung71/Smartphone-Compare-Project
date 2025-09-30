@@ -1,3 +1,5 @@
+<img width="1280" height="720" alt="PreviewIMG" src="https://github.com/user-attachments/assets/f962f571-8374-4047-b755-1fa4b2f3fbbf" />
+
 # Smartphone Compare Project
 A class assignment to create mobile app project with React Native + Expo
 
